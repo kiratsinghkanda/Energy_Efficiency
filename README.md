@@ -62,6 +62,3 @@ jupyter notebook Energy_Efficiency.ipynb
 
 See `LICENSE.txt` for licensing details.
 
----
-
-If you'd like, I can also update the notebook to fit the scaler on `x_train` only and add a metrics comparison table — tell me if you want me to make that change now.
